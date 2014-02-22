@@ -15,3 +15,4 @@ Készítők:
  - Szél Gellért
  - Szél Dávid
  - Szloszjár Bettina
+ - Fuksz Pál Bálint
