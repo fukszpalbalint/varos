@@ -4,6 +4,7 @@ mezo({
   nev: 'Pali Házikó',
   leiras: 'kicsi házikó'
   ralepeskor: function() {
+  kiir ('Pali hzára léptél és fájt neki!')
   nev = kerdez("Mi a neved?");
   udvozlet = "Szia " + nev;
   kiir(udvozlet);
