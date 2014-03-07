@@ -1,8 +1,8 @@
 mezo({
   vizszintes: 5,
   fuggoleges: 2,
-  nev: 'Pali Házikó',
-  leiras: 'kicsi házikó'
+  nev: 'Pali Házikó';
+  leiras: 'kicsi házikó';
   ralepeskor: function() {
   nev = kerdez("Mi a neved?");
   udvozlet = "Szia " + nev;
