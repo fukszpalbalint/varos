@@ -8,7 +8,7 @@ mezo({
     kiir ("Szia Oli Múzeumába vagy.");
     
     var udvozlesUtan = function() {
-      kerdezuj("Hanyszor irjam le hogy mindennap programozni fogok?", kezelMindennap);
+      kerdezuj("Hanyszor irjam le hogy Mindennap programozni fogok?", kezelMindennap);
     }
 
     var kezelMindennap = function(valasz) {
