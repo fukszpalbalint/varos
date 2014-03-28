@@ -8,7 +8,7 @@ mezo({
     nev = kerdez("Mi a neved?");
     kiir = "Szia " +nev;
     szam = kerdez("Hányszor írja ki?");
-    for (szamlalo = 0; szamlalo < szam; szamlalo++) {
+    for (szamlalo = 0; szam < szamlalo; szam++) {
         kiir("Minden nap programozni fogok")
     }
   }
