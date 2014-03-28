@@ -10,7 +10,7 @@ ralepeskor: function() {
     muinka = kerdez("Hol dolgozol?");
     
     var udvozlesUtan = function() {
-      kiir"Szia! Gellért házában vagy.");
+      kiir("Szia! Gellért házában vagy.");
       kerdezuj("Hany csokit kérsz?", kezelAlmaValasz);
     }
 
