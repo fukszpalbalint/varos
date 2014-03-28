@@ -14,7 +14,7 @@ mezo({
     var kezelMindennap = function(valasz) {
       // Ciklus, haromszor hajtodik vegre 
       for (var szamlalo = 0; szamlalo < valasz; szamlalo++) {
-        kiiruj("mindennap programozni fogok")
+        kiiruj("Mindennap programozni fogok")
       }
     }      
 
